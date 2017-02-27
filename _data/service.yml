@@ -1,0 +1,28 @@
+name: service
+label: 이러한 멋진 것들을 소개하고 있습니다.
+descriptions: desc
+services:
+  -
+    name: matzip
+    label: 맛집
+    description: matzip
+    url: matzip
+    icon: cutlery
+  -
+    name: 준비중
+    label: 포탈
+    description: 준비중
+    url: portal
+    icon: circle-thin
+  -
+    name: 준비중
+    label: 언덕
+    description: 준비중
+    url: hill
+    icon: wheelchair
+  -
+    name: 준비중
+    label: 애지문
+    description: 준비중
+    url: subway
+    icon: subway
