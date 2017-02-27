@@ -1,1 +1,21 @@
-Hello, World!
+---
+title: Home
+layout: default
+---
+
+    {% include header.html %}
+
+    <section id="list">
+        <ul>
+        {% for li in site.data.list %}
+            <li>
+                {{ li.name }}
+            </li>
+        {% endfor %}
+        </ul>
+    </section>
+
+
+    {% include random.html %}
+
+    {% include services.html %}
