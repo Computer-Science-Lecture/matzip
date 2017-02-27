@@ -1,0 +1,6 @@
+{% assign random = site.time | date: "%s%N" | modulo: site.data.list.size %}
+{% for li in site.data.list %}
+    {% if random == forloop.index0 %}
+        {{ li.name }}
+    {% endif %}
+{% endfor %}
