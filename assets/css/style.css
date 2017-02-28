@@ -54,6 +54,7 @@ p {
 }
 section {
   padding: 80px 0;
+  border-bottom: 2px solid orangered;
 }
 aside {
   padding: 50px 0;
@@ -306,6 +307,7 @@ body {
   webkit-tap-highlight-color: #222222;
 }
 #header {
+  border-bottom: none;
 }
 #header:before{
   content: "";
@@ -346,11 +348,6 @@ body {
 
 a.nounderline {
   text-decoration: none;
-}
-
-#random {
-  border-top: 2px solid orangered;
-  border-bottom: 2px solid orangered;
 }
 
 .container a {
@@ -417,6 +414,50 @@ a.nounderline {
   #list .detail.active {
     display: inline-block;
   }
+}
+
+#contribute .contribute-img {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+}
+
+#contribute img {
+  width: 100%;
+  height: 100%;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+#contribute img:hover {
+  -webkit-filter: blur(3px);
+  -moz-filter: blur(3px);
+  -o-filter: blur(3px);
+  -ms-filter: blur(3px);
+  filter: blur(3px);
+  -webkit-transform: scale(1.3);
+  -moz-transform: scale(1.3);
+  -ms-transform: scale(1.3);   
+  -o-transform: scale(1.3);
+  transform: scale(1.3);
+}
+
+#contribute .contribute {
+  padding: 0;
+  background: #eee;
+}
+
+#contribute .contribute-box {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 70%;
+  left: 0;
+}
+
+#contribute .contribute-box h2 {
+  font-weight: 200;
 }
 
 i#refresh-icon {
