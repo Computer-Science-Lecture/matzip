@@ -5,6 +5,7 @@
   description: 왕십리에 오면 반드시 한번은 먹어봐야 하는 전설의 알밥<br>1주일에 10끼를 알촌에서 때우던 시절도 있다.<br>현재 서울 대학가 곳곳에 퍼져있는 알촌의 1호점이다.<br>사실 진정한 의미의 1호점은 따로 있었지만<br>지금은 영업을 중지하고 이 알촌으로 통합되었다.
   location: 자세한 설명은 생략한다.
   image:
+  author: Kang Hyojin
 -
   name: 호코리
   menu: 데리야끼, 카레
@@ -12,6 +13,7 @@
   description: 생각보다 양도 많고 맛도 아주 좋은데 좀 물려서 한번 먹고나면 한달정도는 다시 땡기지 않는다.
   location: 알촌 옆 옆
   image:
+  author: Kang Hyojin
 -
   name: 돼지분식
   menu: 흔한 한식
@@ -19,6 +21,7 @@
   description: 숨겨진 맛집중 하나다.<br>장근석이 굉장히 좋아했다고는 하는데 그건 별로 관심 없다.<br>메뉴 세개 이상 시키면 테이블당 라면이 하나씩 서비스
   location: 호코리 맞은편 도스마스 옆
   image:
+  author: Kang Hyojin
 -
   name: 옵션
   menu: 파스타, 그라탕, 도리아
@@ -26,6 +29,7 @@
   description: 가격이 좀 쎈편이긴 한데 양이 오지게 많다.<br>강남 이런데서 한주먹 주고 이만원 받아처먹는 그딴거랑은 차원이 다르다.<br>한달에 한번쯤은 가볼만한 곳
   location: 노랑통닭 옆
   image:
+  author: Kang Hyojin
 -
   name: 철판볶음밥
   menu: 철판볶음밥
@@ -33,6 +37,7 @@
   description: 유가네랑 메뉴가 거의 다 똑같지만 맛이 좀 저렴하다.<br>싼맛에 가끔 먹어볼만 하다.
   location: 컴놀PC방 아래 개미굴 바로 왼편
   image:
+  author: Kang Hyojin
 -
   name: 싸움의고수
   menu: 1인보쌈
@@ -40,6 +45,7 @@
   description: 혼자 먹기 힘든 보쌈을 1인 메뉴로 먹을 수 있다는게 강점이다. 가게 인테리어도 일본식으로 혼밥에 편리하게 꾸며져 있다. 마늘보쌈이나 싸움덮밥이 맛있는것 같다. 1인 메뉴는 사이즈별로 주문할 수 있는데 배고프다고 큰 사이즈를 시키면 다소 물릴 수 있으니 주의가 필요하다.
   location: 할리비어, 가오가, 베라 건물 1층
   image:
+  author: Kang Hyojin
 -
   name: 코끼리분식
   menu: 흔한 한식
@@ -47,6 +53,7 @@
   description: 제육류를 시키면 코끼리가 먹을만한 물량이 쏟아진다.<br>다른 메뉴들도 대동소이 하다.<br>메뉴를 두개 이상 주문하면 찌개도 서비스로 나오는데<br>하나씩 다 차려놓고 나면 보기만 해도 벌써 배가 부르다.
   location: 개미굴 노벨분식 맞은편
   image:
+  author: Kang Hyojin
 -
   name: 그린분식
   menu: 흔한 한식, 치킨마요, 참치마요
@@ -54,6 +61,7 @@
   description: 개인적으로 왕십리 분식집 중에서 최고라고 생각하는 곳이다.<br>맛이면 맛 양이면 양 어느하나 빠지는게 없다.<br>그냥 모든 메뉴가 다 맛있어서 추천해줄 메뉴도 딱히 없다.<br>카드계산이 안되는게 아주 약간 아쉽다.
   location: 노벨분식 옆
   image:
+  author: Kang Hyojin
 -
   name: 엄마손 식당
   menu: 역시 흔한 한식
@@ -61,6 +69,7 @@
   description: 1인당 메뉴 하나씩 시키면 반찬과 밥이 무제한이다.<br>배가 너무너무 고플때 가면 좋다
   location: 그린분식 옆 장어구이 골목
   image:
+  author: Kang Hyojin
 -
   name: 장어구이
   menu: 김치찌개, 장어구이
@@ -68,6 +77,7 @@
   description: 가게 이름도 장어구이고 실제로 장어구이가 메뉴에도 있는데 시켜먹는 사람을 본적은 없다.<br>밥을 사람 수대로 추가 주문하면 리필은 무제한이다.<br>서비스로 나오는 계란말이가 별미
   location: 일번지 1층과 맞은편 골목 안쪽의 두군데
   image:
+  author: Kang Hyojin
 -
   name: 장도뚝배기
   menu: 한식
@@ -80,6 +90,7 @@
   description: 상하이 짬뽕보다 천원이 더 비싸지만 홍합이 천원치 더 들어있다.<br>신짬뽕은 굉장히 맵고 불짬뽕은 재료를 숯불에 볶아서 굉장히 맛있다.
   location: 왕십리 6번출구쪽 육쌈냉면 2층
   image:
+  author: Kang Hyojin
 -
   name: 육쌈냉면
   menu: 냉면
@@ -87,6 +98,7 @@
   description: 냉면은 별로 안좋아하지만 함께 나오는 고기때문에 가끔 가는 곳이다.<br>식사시간엔 항상 사람이 많아서 자리 잡기가 힘들다.
   location: 왕십리 6번출구쪽 메이드인짬뽕 1층
   image:
+  author: Kang Hyojin
 -
   name: 춘천집 닭갈비
   menu: 닭갈비
@@ -94,6 +106,7 @@
   description: 가격은 유가네랑 비슷하지만 고기비율이 더 높다.<br>괜히 춘천까지 가서 9천원 만원하는 닭갈비 먹는것보단 여기가 나은것 같기도 하다.
   location: 갱생주점 옆
   image:
+  author: Kang Hyojin
 -
   name: 신촌돈부리모노
   menu: 일식 덮밥
@@ -101,6 +114,7 @@
   description: 히토리 우동 자리에 생긴 덮밥집이다.<br>체인점이며 가격이 다소 쏀 것만 빼면 맛도 괜찮고 좋다.<br>육회덮밥이랑 연어덮밥이 제일 맛있는것 같은데 제일 비싸다.
   location: 행당동 굴다리 앞 길모퉁이
   image:
+  author: Kang Hyojin
 -
   name: 오바케 돈부리
   menu: 일식 덮밥
@@ -108,6 +122,7 @@
   description: 맥도날드처럼 데스크에 미리 주문해서 계산하고 기다렸다가 받아가는 방식이다.<br>맛은 좋지만 양이 그저 그래서 가끔 덮밥이 땡길때 가볼만하다.
   location: 왕십리 6번출구 정면으로 쭉
   image:
+  author: Kang Hyojin
 -
   name: 카모메
   menu: 오니기리
@@ -115,6 +130,7 @@
   description: 하나 이천원쯤 하는 주먹밥 두개나 주먹밥 우동 세트로 먹는게 보통이다.<br>여기도 양이 생각보다 많은 편인데 테이크아웃이 가능해서 가끔 집에가는길에 사들고 간다.
   location: 한양떡볶이 옆
   image:
+  author: Kang Hyojin
 -
   name: 비야
   menu: 부대찌개
@@ -122,6 +138,7 @@
   description: 소세지가 아주아주 많이 들어있다.<br>보통 2인분 이상에 라면사리까지 추가해서 먹는다.<br>음료수 한병은 서비스
   location: 제노PC방 건물 1층
   image:
+  author: Kang Hyojin
 -
   name: 본초 왕돈까스
   menu: 일식돈까스, 우동
@@ -129,6 +146,7 @@
   description: 라면 돈까스 세트가 가장 맛있는데 양이 굉장히 많다.<br>라면은 너구리로 준다.<br>돈까스와 함께 나오는 밥을 라면에 말아먹으면 더 맛있다.
   location: 한양대역 맞은편
   image:
+  author: Kang Hyojin
 -
   name: 한양 설렁탕 칼국수
   menu: 냉면, 설렁탕, 칼국수
@@ -136,6 +154,7 @@
   description: 왕십리에서 설렁탕을 파는 몇 안되는 집중 하나라서 가끔 가는데<br>닭칼국수도 굉장히 맛있다.
   location: 한양대역 맞은편
   image:
+  author: Kang Hyojin
 -
   name: 와와
   menu: 그라탕, 볶음밥
@@ -143,6 +162,7 @@
   description: 11학번 모 학우의 고모님이 운영하는 가게라고 한다.<br>비교적 싼 값에 그라탕을 먹을수 있어서 자주 가는 곳 중 하나다.
   location: 알촌 맞은편
   image:
+  author: Kang Hyojin
 -
   name: 사철냉면
   menu: 냉면, 만두
@@ -150,6 +170,7 @@
   description: 구석에 숨겨져 있어서 찾긴 힘들지만 아는 사람은 다 알고 찾아간다.<br>특사이즈를 시키면 상상을 초월하는 양이 나온다.<br>왕만두도 굉장히 맛있다
   location: 룩옵티컬과 컵닭 사이
   image:
+  author: Kang Hyojin
 -
   name: 청춘초밥
   menu: 초밥류
@@ -157,6 +178,7 @@
   description: 초밥이 개당 1000원이라 비싸보여서 기피하던 곳이지만 막상 가서 먹어보니 스시우마이에서 웬만큼 뽕을 뽑을수 있는 사람이 아니라면 이곳을 선택해도 크게 손해보지 않을 만큼 양도 맛도 괜찮았다.<br>사실 이제는 스시우마이도 없으니 선택권이 없다.<br>세트메뉴를 시킬경우 하나씩 나오는 초밥을 놓고 친구와 싸우지 않도록 주의
   location: 죠스떡볶이 옆
   image:
+  author: Kang Hyojin
 -
   name: 산쪼메 라멘
   menu: 라멘
@@ -164,6 +186,7 @@
   description: 여기도 가격이 좀 쎈편이지만 맛있어서 간다.<br>메인메뉴 하나에 카라아게나 코로케 같은 사이드 메뉴를 추가로 먹기도 한다.<br>매운맛은 500원 추가, 밥은 1000원 추가
   location: 왕십리역 6번출구 옆
   image:
+  author: Kang Hyojin
 -
   name: 다시올치킨
   menu: 닭칼국수, 닭곰탕
@@ -171,6 +194,7 @@
   description: 사근동 한구석에 숨겨진 집. <br>닭칼국수 양이 어마어마해서 여학우들은 간혹 셋이서 2인분 시켜먹기도 한다.<br>그런데 최근엔 양이 좀 줄어든 듯 하다.<br>닭곰탕은 새로 추가된 메뉴인데 역시 맛있다.
   location: 사근동 김밥천국 안쪽 골목 포시즌마트 옆
   image:
+  author: Kang Hyojin
 -
   name: 새마을식당
   menu: 김치찌개 된장찌개
@@ -178,6 +202,7 @@
   description: 원래 체인점은 최대한 뺄려고 했는데 생각해보니 위에 이미 많이 있길래 그냥 추가하기로 했다.<br>7분돼지김치도 소고기된장찌개도 둘다 맛있다.<br>공기밥은 달라는대로 더 주는 것 같다.<br>열탄불고기나 돼지껍데기도 양이 적어서 그렇지 맛은 있다.
   location: 죠스떡볶이 옆 옆
   image:
+  author: Kang Hyojin
 -
   name: 진국
   menu: 수육국밥, 순대국밥
@@ -185,6 +210,7 @@
   description: 원래 수육국밥은 돼지국밥 짭이라고 무시했는데<br>생각보다 먹을 만 했던걸로 기억한다.<br>이집도 국물은 달라는대로 더 주는 것 같다.<br>24시간이라 밤새 달리고 해장하기 좋은 집
   location: 제노 1층
   image:
+  author: Kang Hyojin
 -
   name: 일락
   menu: 라멘, 규동
@@ -192,6 +218,7 @@
   description: 라멘은 매운맛을 선택할수 있는데 5단계는 일생에 한번쯤 먹어볼만 한것 같다.<br>쇼유라멘도 맛있고 챠슈 들어간건 다 맛있다.
   location: 일번지 옆 아씨펍 1층
   image:
+  author: Kang Hyojin
 -
   name: 도스마스
   menu: 부리또
@@ -199,6 +226,7 @@
   description: 부리또판 맥도날드라고 생각하면 이해가 편하다.<br>주문할때 고기 종류와 매운 정도를 고를수 있고, 단품은 3000원 음료추가는 3700원<br>감자까지 추가하면 5500원이며, 다양한 사이드 메뉴도 있다.<br>에리카 캠퍼스 근처에는 1호점 본점이 있다고 한다.
   location: 알촌골목 호코리 맞은편
   image:
+  author: Kang Hyojin
 -
   name: 우동 가조쿠
   menu: 우동
@@ -206,6 +234,7 @@
   description: 여기도 왕십리쪽이 아닌 한양대역쪽에 있다.<br>매일 아침마다 생면을 뽑는다는데 과연 쫄깃쫄깃 하다.<br>국물우동부터 비빔우동까지 메뉴도 다양하다.
   location: 한양대역 1번출구 근처
   image:
+  author: Kang Hyojin
 -
   name: 하쿠나마타타
   menu: 일식
@@ -213,6 +242,7 @@
   description: 여기도 가격이 좀 쎈편이지만 학교 근처 일식집 중에서 메뉴가 제일 신선한 곳이다.<br>메인메뉴 하나에 타코야끼나 코로케 같은 사이드 메뉴를 추가로 먹기도 한다.<br>원래 있던 자리에 폰가게가 생겨서 그대로 없어진 줄 알았는데 왕십리 역쪽에 다시 부활했다.
   location: 왕십리역 6번출구 가는 길 보스턴오뎅 맞은편
   image:
+  author: Kang Hyojin
 -
   name: 서병장대김일병
   menu: 부대볶음
@@ -220,15 +250,20 @@
   description: 국물 없는 부대찌개라고 보면 될 듯 하다.<br>메뉴는 기본적으로 부대볶음 하나지만 입맛대로 사리를 추가해서 먹을 수 있다.<br>밥을 사람 수대로 주문하면 나중에 볶아주기도 한다.<br>타이머가 돌아가는걸 보면 7분돼지김치가 떠오른다.
   location: 띵똥와플 블록 GS25 왼편
   image:
+  author: Kang Hyojin
 -
   name: 파삼오삼
   menu: 파절이 삼겹살
   price: 8000 - 
   description: 삼겹살에 파절이를 얹어 볶아먹는 메뉴다.<br>굉장히 맛있지만 자주 먹기엔 가격이 다소 부담스럽다.<br>주먹밥이나 치즈퐁듀를 추가해서 먹는 경우가 많다.<br>최근 양념 맛이 변했다는 설이 있는데 직접 먹어보고 확인 할 예정이다.
   location:
+  image:
+  author: Kang Hyojin
 -
   name: 주물럭 & 꼼장어
   menu: 돼지고기 주물럭
   price: 4000 -
   description: 기본 3인분 한판을 시키고 1인분씩 추가해서 먹는다.<br>개인적으로 밥을 볶아 먹는것 보다 그냥 공기밥에 국물을 비벼먹는게 더 맛있는 것 같다.<br>예전엔 많이 시키면 순두부찌개도 서비스로 줬었는데 요즘은 잘 모르겠다.<br>단체테이블도 있고 술안주로도 괜찮아서 식사보다는 동아리 모임 뒷풀이로 자주 가는 곳이다.<br>몇 달 전에 가게가 허물려서 망한건가 했더니 최근에 리모델링을 해서 다시 오픈했다.
   location:
+  image:
+  author: Kang Hyojin
