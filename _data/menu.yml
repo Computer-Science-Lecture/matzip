@@ -1,6 +1,9 @@
 -
   name: random
-  label: random
+  label: Random
+-
+  name: contribute
+  label: Contribute
 -
   name: services
   label: Services
