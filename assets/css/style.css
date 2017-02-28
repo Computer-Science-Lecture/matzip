@@ -347,3 +347,33 @@ body {
 a.nounderline {
   text-decoration: none;
 }
+
+#random {
+  border-top: 2px solid orangered;
+  border-bottom: 2px solid orangered;
+}
+
+#list ul {
+  list-style-type: none;
+  overflow: hidden;
+}
+
+.container a {
+  text-decoration: none;
+}
+
+#list li {
+  border: 1px solid #eee;
+  float: left;
+  width: 25%;
+  min-width: 200px;
+  max-width: 250px;
+  height: 500px;
+  padding: 15px;
+}
+@media (max-width: 480px) {
+  #list li {
+    width: 90%;
+    max-width: 90%;
+  }
+}

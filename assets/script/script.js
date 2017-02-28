@@ -1,6 +1,18 @@
 (function($) {
     "use strict"; // Start of use strict
 
+    $(document).ready(function() {
+        var $li = $(".matzip");
+        var rand = parseInt(Math.random() * $li.length);
+        var $sel = $("#list-" + rand);
+        var $out = $("#random-name");
+        var $aut = $("#random-a");
+
+        $out.text($sel.data('name'));
+        $aut.attr('href', '#list-' + rand)
+
+    });
+
     // jQuery for page scrolling feature - requires jQuery Easing plugin
     $('a.page-scroll').bind('click', function(event) {
         var $anchor = $(this);
