@@ -1,16 +1,38 @@
+function random() {
+    var $li = $(".matzip");
+    var rand = parseInt(Math.random() * $li.length);
+    var $sel = $("#list-" + rand);
+    var $out = $("#random-name");
+    var $aut = $("#random-a");
+
+    $out.text($sel.data('name'));
+    $aut.attr('href', '#list-' + rand)
+}
+
+function active(obj) {
+    var $act = $(".active");
+    $act.removeClass("active");
+    obj.addClass("active");
+    obj.find(".detail").addClass("active");
+}
+
 (function($) {
     "use strict"; // Start of use strict
 
     $(document).ready(function() {
-        var $li = $(".matzip");
-        var rand = parseInt(Math.random() * $li.length);
-        var $sel = $("#list-" + rand);
-        var $out = $("#random-name");
-        var $aut = $("#random-a");
+        random();
+    });
 
-        $out.text($sel.data('name'));
-        $aut.attr('href', '#list-' + rand)
+    $('a#refresh').bind('click', function(event) {
+        random();
+    });
 
+    $('#random-a').bind('click', function(event) {
+        active($($(this).attr('href')));
+    });
+
+    $('.matzip').bind('click', function(event) {
+        active($(this));
     });
 
     // jQuery for page scrolling feature - requires jQuery Easing plugin

@@ -5,21 +5,7 @@ layout: default
 
     {% include header.html %}
 
-    <section id="list">
-        <ul>
-        {% for li in site.data.list %}
-            <li class="matzip" id="list-{{ forloop.index0 }}" data-name="{{ li.name }}">
-                <div class="info">
-                    <h2>{{ li.name }}</h2>
-                    <h5>메뉴: {{ li.menu }}</h5>
-                    <h5>가격: {{ li.price }}</h5>
-                </div>
-                <p>{{ li.description }}</p>
-                <h5>위치: {{ li.location}}</h5>
-            </li>
-        {% endfor %}
-        </ul>
-    </section>
+    {% include list.html %}
 
     {% include random.html %}
 
