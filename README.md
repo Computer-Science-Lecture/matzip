@@ -8,3 +8,9 @@ HYU-awesome은 공개 프로젝트이며 여러분의 기여를 통해 문서를
 ## matzip
 
 matzip은 HYU-awesome의 하위 프로젝트로 근교의 맛집 리스트를 제공하는 것을 목적으로 합니다.
+
+
+## Contribut
+
+_data/list.yml 파일에 수정 목록을 덧붙여서 pull request를 날려주시면됩니다.
+contributor에 대한 정보는 _data/contributor.yml에 담길 수 있습니다.
