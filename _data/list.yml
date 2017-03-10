@@ -299,5 +299,28 @@
   location: 한양대 입구역 건너편
   image:
   author: Park Soyoung
-
+-
+  name: 짱고기
+  menu: 삼겹살
+  price: 5,000
+  description: 왕십리에서 가장 맛있다고 생각하는 삼겹살 집.<br>수입육이지만 두껍고 인내심을 갖고 다 익을 때까지 기다리다보면 천국을 맛볼 수 있다. 
+  location: 안경은 얼굴이다 골목 오른쪽
+  image:
+  author: Park Soyoung
+-
+  name: 깡s
+  menu: 삼겹살
+  price: 6,000
+  description: 2층짜리 고기집. 뒤풀이 예약을 하면 2층을 줘서 구성원끼리 어울릴 수 있다.<br>고기를 시키면 라면을 서비스로 준다.(리필가능)<br>다 구워놓은 김치와 버섯이 정말 맛있다.
+  location: 이모네 북어찜
+  image:
+  author: Park Soyoung
+-
+  name: 맛나
+  menu: 삼겹살
+  price: 3,800 - 5,000
+  description: 고기를 먹고 싶은데 돈이 없다 할 때 가는 곳.<br>맛나삼겹살은 인당 3,800원이다. 다른 삼겹살에 비해 매우 얇으나 그런대로 맛이 있다.<br>여름이 되면 야외테이블을 차려주는데 분위기가 정말 좋다.
+  location: 장어구이 2호점 안골목
+  image:
+  author: Park Soyoung
 
