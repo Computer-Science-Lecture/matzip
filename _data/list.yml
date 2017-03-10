@@ -323,4 +323,13 @@
   location: 장어구이 2호점 안골목
   image:
   author: Park Soyoung
+-
+  name: 띵동와플
+  menu: 와플
+  price: 1,000 -
+  description: 술을 먹은 후 6출을 향해 가다보면 꼭 보이는 와플집.<br>가격이 1,000원대로 저렴해 술을 깰 겸 먹기에 좋다.<br>빵,크림,아이스크림,시럽 등 원하는 옵션을 추가할 수 있다.<br>초코와플에 초코아이스크림, 초코시럽은 진리!
+  location: 왕십리 6번출구에서 오른쪽으로 직진
+  image:
+  author: Park Soyoung
+
 
