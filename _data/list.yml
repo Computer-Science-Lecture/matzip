@@ -267,3 +267,37 @@
   location:
   image:
   author: Kang Hyojin
+-
+  name: 샤브앤돈
+  menu: 돼지고기, 샤브샤브
+  price: 9,000 - 10,000
+  description: 고기 1인분을 시키면 약간의 샤브샤브를 준다.<br>인당 1인분만 시켜도 배부르게 먹을 수 있다.<br>고기 철판 위에 밥을 비벼 먹거나(날치알 포함) 샤브샤브 국물에 죽을 말아 먹을 수 있다.
+  location: 새마을식당 옆
+  image:
+  author: Park Soyoung
+-
+  name: 고져스 키친
+  menu: 스파게티, 필라프
+  price: 12,000 - 15,000
+  description: 왕십리에서 그나마 가장 분위기가 있다고 생각하는 이태리 레스토랑.<br>가격은 학생에게 부담스럽지만 필라프만 먹는다면 괜찮다.<br>2인 기준 필라프 하나면 충분하다.
+  location: 셀빠 골목 어반팜 카페 지하
+  image:
+  author: Park Soyoung
+-
+  name: 육앤샤
+  menu: 샤브샤브
+  price: 7,000
+  description: 뭐가 많이 들어가는 샤브샤브집.<br>저렴한 가격에 배부르게 먹을 수 있다.
+  location: 
+  image:
+  author: Park Soyoung
+-
+  name: J's Plate
+  menu: 스파게티, 피자
+  price: 8,000 -
+  description: 아기자기한 인테리어에서 비교적 저렴한 이태리식을 먹을 수 있다.<br>좌석이 그리 많지는 않으나 소파와 같은 편한 의자들이 있다.<br>맛도 생각 이상.
+  location: 한양대 입구역 건너편
+  image:
+  author: Park Soyoung
+
+
