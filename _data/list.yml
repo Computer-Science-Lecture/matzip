@@ -269,7 +269,7 @@
   author: Kang Hyojin
 -
   name: 샤브앤돈
-  menu: 돼지고기, 샤브샤브
+  menu: 삼겹살, 항정살, 샤브샤브
   price: 9,000 - 10,000
   description: 고기 1인분을 시키면 약간의 샤브샤브를 준다.<br>인당 1인분만 시켜도 배부르게 먹을 수 있다.<br>고기 철판 위에 밥을 비벼 먹거나(날치알 포함) 샤브샤브 국물에 죽을 말아 먹을 수 있다.
   location: 새마을식당 옆
@@ -299,5 +299,44 @@
   location: 한양대 입구역 건너편
   image:
   author: Park Soyoung
-
+-
+  name: 짱고기
+  menu: 삼겹살, 주먹고기
+  price: 5,000
+  description: 왕십리에서 가장 맛있다고 생각하는 삼겹살 집.<br>수입육이지만 두껍고 인내심을 갖고 다 익을 때까지 기다리다보면 천국을 맛볼 수 있다. 
+  location: 안경은 얼굴이다 골목 오른쪽
+  image:
+  author: Park Soyoung
+-
+  name: 깡s
+  menu: 삼겹살, 항정살, 돼지갈비
+  price: 6,000
+  description: 2층짜리 고기집. 뒤풀이 예약을 하면 2층을 줘서 구성원끼리 어울릴 수 있다.<br>고기를 시키면 라면을 서비스로 준다.(리필가능)<br>다 구워놓은 김치와 버섯이 정말 맛있다.
+  location: 이모네 북어찜
+  image:
+  author: Park Soyoung
+-
+  name: 맛나
+  menu: 삼겹살, 항정살
+  price: 3,800 - 5,000
+  description: 고기를 먹고 싶은데 돈이 없다 할 때 가는 곳.<br>맛나삼겹살은 인당 3,800원이다. 다른 삼겹살에 비해 매우 얇으나 그런대로 맛이 있다.<br>여름이 되면 야외테이블을 차려주는데 분위기가 정말 좋다.
+  location: 장어구이 2호점 안골목
+  image:
+  author: Park Soyoung
+-
+  name: 띵동와플
+  menu: 와플
+  price: 1,000 -
+  description: 술을 먹은 후 6출을 향해 가다보면 꼭 보이는 와플집.<br>가격이 1,000원대로 저렴해 술을 깰 겸 먹기에 좋다.<br>빵,크림,아이스크림,시럽 등 원하는 옵션을 추가할 수 있다.<br>초코와플에 초코아이스크림, 초코시럽은 진리!
+  location: 왕십리 6번출구에서 오른쪽으로 직진
+  image:
+  author: Park Soyoung
+-
+  name: 스마일떡볶이
+  menu: 즉석떡볶이
+  price: 4,000 -
+  description: 기본적으로 생각할 만한 즉석 떡볶이집.<br>기본 메뉴가 저렴하지만 그만큼 양이 적기 때문에 추가 사리를 인원 수대로 넣어 먹어야 한다.<br>다 먹은 후 볶음밥은 필수!<br>현금을 내면 쿠폰복권을 주는데 웬만하면 당첨된다.
+  location: 제노 앞 큰 길에서 마장동 방향으로 쭉 직진, 한솥 옆
+  image:
+  author: Park Soyoung
 
