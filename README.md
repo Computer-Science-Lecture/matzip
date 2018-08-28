@@ -1,3 +1,5 @@
+***HYU-awesome에서 HYU-CSE이전***
+
 # HYU-awesome.github.io
 
 HYU-awesome은 한양대학교의 멋진 것들을 소개하는 페이지 입니다.
